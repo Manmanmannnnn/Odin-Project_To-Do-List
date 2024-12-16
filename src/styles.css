@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url('../img/otto-norin-uG3Vu5TXKxE-unsplash.jpg');
+    background-size: cover;
+}
+
+.container{
+    margin: auto;
+    height: 75vh;
+    width: 70vw;
+    background-color: rgb(241, 206, 166);
+    color: rgb(46, 45, 45);
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+
+button{
+    height: 60%;
+}
+
